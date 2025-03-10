@@ -1,7 +1,7 @@
 # emi
 ##This repo is heavily based on (https://github.com/gydpku/OCM), many thanks.
 
-##Running Experiments
+##Requirement
 
 Pytorch1.13
 
