@@ -3,7 +3,7 @@
 
 ##Running Experiments
 
-Pytorch1.6
+Pytorch1.13
 
 Numpy
 
