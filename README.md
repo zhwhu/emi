@@ -1,12 +1,16 @@
 # emi
-#This repo is heavily based on (https://github.com/gydpku/OCM), many thanks.
-Running Experiments
+##This repo is heavily based on (https://github.com/gydpku/OCM), many thanks.
+
+##Running Experiments
+
 Environments:
 	Pytorch1.6
 	Numpy
 	Scipy
 	Apex
-  timm
+        timm
+	
+##Usage
 Dataset:CIFAR10
     python emi_cifar10.py --buffer_size 1000
 Dataset:CIFAR100
