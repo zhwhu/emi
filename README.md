@@ -3,18 +3,16 @@
 
 ##Running Experiments
 
-Environments:
+Pytorch1.6
 
-	Pytorch1.6
- 
-	Numpy
- 
-	Scipy
- 
-	Apex
- 
-        timm
-	
+Numpy
+
+Scipy
+
+Apex
+
+timm
+
 ##Usage
 
 Dataset:CIFAR10
